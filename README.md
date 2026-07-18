@@ -9,10 +9,8 @@ I enjoy solving challenging engineering problems—from designing high-performan
 Most of my work revolves around **Go**, **Python**, **C++**, and **TypeScript**, with a strong interest in system design, performance optimization, and developer experience. I actively contribute to open source and enjoy exploring low-level systems, reproducible builds, and emerging AI technologies.
 
 My interests include:
-* 🌐 Full-Stack Development
-* 📱 Mobile Development
+* 🌐 SDET
 * 🤖 AI/ML & LLMs
-* ⚡ Backend & Distributed Systems
 * ☁️ Cloud & DevOps
 
 ## 🎯 Currently Building & Exploring
@@ -37,8 +35,6 @@ Always learning, building, and shipping new ideas.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ranadolui.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rana-dolui-89357728a/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Ranad187)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1282694093696274505)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranadolui718@gmail.com)
 
 
